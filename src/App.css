@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 14px;
 }
 
 .App-logo {
@@ -19,4 +20,17 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.report{
+  width: 40%;
+  margin: 0 auto;
+}
+
+tr { line-height: 10px; }
+
+p{
+  text-align: left; 
+  font-size: 16px;
+  color: cadetblue;
 }
